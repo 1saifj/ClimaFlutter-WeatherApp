@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/clima/BuildConfig.java
+ com.example.clima.BuildConfig
+co/appbrewery/clima/MainActivity.java
+ co.appbrewery.clima.MainActivity
